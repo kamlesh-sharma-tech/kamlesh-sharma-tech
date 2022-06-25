@@ -1,3 +1,5 @@
+![person-coding](https://user-images.githubusercontent.com/66367321/175785262-d41db1ad-344f-4016-8518-a950989833ae.jpg)
+
 <h1 align="center">Hi 👋, I'm Kamlesh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 

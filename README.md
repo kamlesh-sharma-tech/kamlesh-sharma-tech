@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh-sharma-tech&show_icons=true&locale=en&theme=dark" alt="kamlesh-sharma-tech" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh-sharma-tech&theme=dark" alt="kamlesh-sharma-tech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh-sharma-tech&show_icons=true&locale=en&theme=dark" alt="kamlesh-sharma-tech" /></p>

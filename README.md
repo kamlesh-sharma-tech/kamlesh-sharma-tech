@@ -38,8 +38,8 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlesh-sharma-tech&show_icons=true&locale=en&layout=compact" alt="kamlesh-sharma-tech" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamlesh-sharma-tech&show_icons=true&locale=en&theme=dark&layout=compact" alt="kamlesh-sharma-tech" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh-sharma-tech&show_icons=true&locale=en" alt="kamlesh-sharma-tech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamlesh-sharma-tech&show_icons=true&locale=en&theme=dark" alt="kamlesh-sharma-tech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamlesh-sharma-tech&" alt="kamlesh-sharma-tech" /></p>

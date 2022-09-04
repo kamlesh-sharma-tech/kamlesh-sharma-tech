@@ -23,6 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kamlesh-sharma-9b695819b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh-sharma-9b695819b" height="30" width="100" /></a>
+<a href="https://kamlesh-sharma-tech.github.io/PortFolio.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-FF9800?style=for-the-badge&logo=portfolio&logoColor=white" alt="kamlesh-sharma-portfolio" height="30" width="100" /></a>
 </p>
 
 ### Technical Skills:

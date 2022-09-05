@@ -5,7 +5,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> I'm Kamlesh Sharma
 <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40" height="40"/></h1>
 
-<h3 align="left">A passionate frontend developer from India</h3>
+## A passionate `Frontend Developer` from India.
 
 <img align="center" src="https://user-images.githubusercontent.com/66367321/176664662-921bfcdd-1aff-4ece-8818-d44c26dbbd5d.png"/>
 
@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently working on my **Personal Projects..**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning `React JS`
 
 - 👨‍💻 All of my projects are available at [https://kamlesh-sharma-tech.github.io/PortFolio.github.io/](https://kamlesh-sharma-tech.github.io/PortFolio.github.io/)
 
-- 💬 Ask me about **Android and Web**
+- 💬 Ask me about `Android` and `Web`
 
 - 📫 How to reach me **kamleshsharma95880@gmail.com**
 

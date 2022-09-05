@@ -7,7 +7,7 @@
 
 <h3 align="left">A passionate frontend developer from India</h3>
 
-<img align="center" src="https://user-images.githubusercontent.com/66367321/176664662-921bfcdd-1aff-4ece-8818-d44c26dbbd5d.png" height=300/>
+<img align="center" src="https://user-images.githubusercontent.com/66367321/176664662-921bfcdd-1aff-4ece-8818-d44c26dbbd5d.png"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamlesh-sharma-tech&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh-sharma-tech" /> </p>
 

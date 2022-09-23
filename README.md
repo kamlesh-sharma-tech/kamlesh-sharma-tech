@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning `React JS`
 
-- 👨‍💻 All of my projects are available at [https://kamlesh-sharma-tech.github.io/PortFolio.github.io/](https://kamlesh-sharma-tech.github.io/PortFolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://portfoliokamlesh.netlify.app/](https://portfoliokamlesh.netlify.app/)
 
 - 💬 Ask me about `Android` and `Web`
 

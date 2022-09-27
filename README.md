@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/kamlesh-sharma-9b695819b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kamlesh-sharma-9b695819b" height="30" width="100" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="kamlesh-sharma-9b695819b" height="30" width="100" /></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="kamlesh-sharma-9b695819b" height="30" width="100" /></a>
-<a href="https://kamlesh-sharma-tech.github.io/PortFolio.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-34568B?style=for-the-badge&logo=ionic&logoColor=white" alt="kamlesh-sharma-portfolio" height="30" width="100" /></a>
+<a href="https://portfoliokamlesh.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/portfolio-34568B?style=for-the-badge&logo=ionic&logoColor=white" alt="kamlesh-sharma-portfolio" height="30" width="100" /></a>
 </p>
 
 ### Technical Skills:

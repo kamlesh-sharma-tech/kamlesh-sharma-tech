@@ -1,15 +1,12 @@
-<p align="center">
-<a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
-</p>
+<p align="center"><img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="ex-2" border="0"></p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> I'm Kamlesh Sharma
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> I'm Kamlesh Sharma
 <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40" height="40"/></h1>
 
-## A passionate `Frontend Developer` from India.
-
-<img align="center" src="https://user-images.githubusercontent.com/66367321/176664662-921bfcdd-1aff-4ece-8818-d44c26dbbd5d.png"/>
+<h3 align="center"> A passionate Frontend Developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamlesh-sharma-tech&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh-sharma-tech" /> </p>
+<img align="right" alt="code" src="https://user-images.githubusercontent.com/66367321/206509620-5d5dda60-57e2-4f58-a159-f3132e7b9d87.gif" width="400px">
 
 - 🔭 I’m currently working on my **Personal Projects..**
 

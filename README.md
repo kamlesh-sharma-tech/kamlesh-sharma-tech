@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="ex-2" border="0"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40"/> I'm Kamlesh Sharma
+<h1 align="center">Hi👋, I'm Kamlesh Sharma
 <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="40" height="40"/></h1>
 
 <h3 align="center"> A passionate Frontend Developer from India.</h3>

@@ -6,7 +6,8 @@
 <h3 align="center"> A passionate Frontend Developer from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamlesh-sharma-tech&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh-sharma-tech" /> </p>
-<img align="right" alt="code" src="https://user-images.githubusercontent.com/66367321/206509620-5d5dda60-57e2-4f58-a159-f3132e7b9d87.gif" width="400px">
+<p align="right">-⚡My Portfolio 👇 - ----> <a href="https://kamleshsharma.netlify.app">kamleshsharma</a></p>
+<a href="https://kamleshsharma.netlify.app"><img align="right" alt="code" src="https://user-images.githubusercontent.com/66367321/213996131-f6b26bb9-d908-461e-9e35-02b5195c7df4.gif" width="500px" height="300px"></a>
 
 - 🔭 I’m currently working on my **Personal Projects..**
 
@@ -17,6 +18,7 @@
 - 💬 Ask me about `Android` and `Web`
 
 - 📫 How to reach me **kamleshsharma95880@gmail.com**
+- 👩‍💻 Check out my <a href="https://kamleshsharma.netlify.app/resume">resume<a/>
 
 <h3 align="left">Connect with me:</h3>
 

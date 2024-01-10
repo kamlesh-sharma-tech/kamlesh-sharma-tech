@@ -9,13 +9,13 @@
 <p align="right">-⚡My Portfolio 👇 - ----> <a href="https://kamleshsharma.netlify.app">kamleshsharma</a></p>
 <a href="https://kamleshsharma.netlify.app"><img align="right" alt="code" src="https://user-images.githubusercontent.com/66367321/213996131-f6b26bb9-d908-461e-9e35-02b5195c7df4.gif" width="500px" height="300px"></a>
 
-- 🔭 I’m currently working on my **Personal Projects..**
+- 👨‍💻 I’m currently working in Appsavio Software Private Limited as a Salesforce Developer.
 
-- 🌱 I’m currently learning `React JS`
+- 📱 I’m currently learning `Lightning Web Component`.
 
-- 👨‍💻 All of my projects are available at [https://kamleshsharma.netlify.app/](https://kamleshsharma.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kamleshsharma.netlify.app/](https://kamleshsharma.netlify.app/).
 
-- 💬 Ask me about `Android` and `Web`
+- 💬 Ask me about `Android`, `Web` and related to `Salesforce`.
 
 - 📫 How to reach me **kamleshsharma95880@gmail.com**
 - 👩‍💻 Check out my <a href="https://kamleshsharma.netlify.app/resume">resume<a/>
